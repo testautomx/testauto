@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <con:soapui-workspace name="Git Demo" soapui-version="5.0.0" xmlns:con="http://eviware.com/soapui/config">
   <con:settings/>
-  <con:project type="REMOTE" status="CLOSED" name="REST OpenWeatherMap">C:/GitDemo/REST-OpenWeatherMap-soapui-project.xml</con:project>
+  <con:project name="REST OpenWeatherMap">C:/GitDemo/REST-OpenWeatherMap-soapui-project.xml</con:project>
 </con:soapui-workspace>
